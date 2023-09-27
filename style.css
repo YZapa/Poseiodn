@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Dahora';
+    src: url("Fonts/Crimson_Text/CrimsonText-Bold.ttf");
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(3, 9, 37);
+    color: white;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h2 {
+    font-size: 125%;
+}
+
+h3 {
+    font-size: 225%;
+}
+
+.poseidon1 {
+    font-size: 300%;
+}
+
+* {
+    text-decoration: solid;
+}
+
+header {
+    background-color: rgb(23, 9, 59);
+    top: 0%;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    justify-content: space-around;
+    z-index: 1;
+}
+
+a {
+    text-decoration: none;
+
+    color: white;
+}
+
+.poseidon2 {
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.Conteudo {
+    margin-top: 70px;
+}
+
+.Historia {
+    display: flex;
+}
+
+.Historia2 {
+    display: flex;
+}
+
+.Conteudo-Historia {
+    height: 200px;
+}
+
+c {
+    font-size: 25px;
+}
+
+.foto {
+    border-radius: 50%;
+}
+
+.foto2 {
+    border-radius: 25%;
+}
+
+d {
+    font-size: 16px;
+}
+
+e {
+    font-size: 25px;
+}
